@@ -1,0 +1,23 @@
+{
+  "name": "flight-club-travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahoneycm/flight-club-travel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahoneycm/flight-club-travel/issues"
+  },
+  "homepage": "https://github.com/mahoneycm/flight-club-travel#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
